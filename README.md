@@ -1,7 +1,6 @@
 # Autosys Graph viewer UI 
 
-Shows a graph like dependency graph among autosys jobs/boxes using react sigma 
-Nodes are searchable
+Visualise autosys job dependencies using a graph
 
 # Getting Started with Create React App
 
